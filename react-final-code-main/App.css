@@ -1,0 +1,107 @@
+body{
+    background-color:#435c70 ;
+}
+
+.line{
+    background-color: #4e657a;  
+}
+.hide{
+    color: #435c70 ;
+}
+
+.main{
+    background-color: #435c70;
+}
+.login-page{
+  background-color: #435c70;
+}
+.dash-head{
+    color: white;
+   margin-left: 50px;
+    font-size: 30px;
+}
+.dash-head span{
+    font-size: 40px;
+}
+.foot{
+    background-color: #567086;
+   text-align: center;
+   color: white;
+}
+.table th{
+    color: white;
+}
+.table td{
+    color: white;
+}
+.navbar{
+    background-color: #567086;
+}
+.nav-select{
+    background-color: #567086;
+    border: none;
+    color: white;
+}
+
+.left{
+    width: 700px;
+}
+.right{
+    width: 300px;
+}
+.product-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+table tr td{
+    text-decoration: none;
+    border: none;
+}
+table tr th{
+    border: none;
+    text-decoration: none;
+}
+button{
+    width: 100%;
+}
+.account{
+    background-color: #567086;
+
+}
+.select{
+    width: 100%;
+    padding: 20px;
+    background-color: #567086;
+    border: none;
+    font-size: 20px;
+    color:white;
+}
+.acc-left{
+    height: 500px;
+    width: 250px;
+    margin: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.acc-right{
+    padding: 50px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+input{
+    padding: 25px;
+    margin: 20px;
+}
+.inp{
+    text-align: center;
+}
+.col{
+    color: white;
+}
+.photo{
+  width: 20px;
+  height: 20px;
+}
